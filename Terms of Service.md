@@ -78,7 +78,7 @@ We reserve the right, but not the obligation to:
 (6) In our sole discretion and without limitation, notice or liability, remove the ability to access the Core and its services from any Discord Servers you are in if in violation of the Terms of Service
 
 ## Privacy Policy
-We care about data privacy and security. Review our Privacy Policy at: (INSERT LINK HERE).
+We care about data privacy and security. Review our Privacy Policy at: [Privacy Policy](https://github.com/StaggeringNine1/SWU-Artificial-Intelligence/blob/main/Privacy%20Policy.md).
 
 By using the Core and all services provided by it, you are agreeing to be bound by the Privacy Policy, which is incorporated in these Terms. Please be aware that the Core and its main services and hosted in and managed inside the United Kingdom. If you are accessing any services provided outside of the United Kingdom with laws or other requirements governing personal data collection, use or disclosure that differ from the applicable laws in the United Kingdom, then through your continued use of the Core, you are transferring your data to the United Kingdom, and you gree to have your data transferred to and process in the United Kingdom.
 
