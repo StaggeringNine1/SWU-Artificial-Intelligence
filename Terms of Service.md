@@ -1,4 +1,6 @@
 # SWU-Artificial-Intelligence
+# Last Updated 11/11/2022 @ 18:22
+
 ## Agreement to the Terms of Service
 The following document (known as "Document", "Terms" or "File") is a legally binding agreement between you (known as "you", "operator", "user"), SWU Artificial Intelligence (known as "Bot") and the creator (known as "Developer", "Creator", "us", "we"). This document will highlight your access and regulated use of the Bot, as well as any other entities that will fall under the operation of the Bot (known collectively as "Core").
 
